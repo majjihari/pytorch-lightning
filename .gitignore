@@ -5,7 +5,6 @@ model_weights/
 app/models/
 pip-wheel-metadata/
 lightning_logs/
-.vscode/
 
 # Test-tube
 test_tube_logs/
@@ -108,7 +107,6 @@ celerybeat-schedule
 *.sage.py
 
 # dotenv
-.env
 
 # virtualenv
 .venv
@@ -158,3 +156,5 @@ data
 MNIST
 runs
 *traces*
+config.bat
+node_modules
